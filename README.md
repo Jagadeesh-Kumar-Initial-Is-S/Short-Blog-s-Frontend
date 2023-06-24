@@ -8,7 +8,7 @@ Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email addres
 
 # Task 
 
-Task - Deployment practice .
+Task - Simple Blog's Frontend .
 
 <hr/>
 
@@ -20,19 +20,13 @@ Front-end which is used is equal to ReactJS or React.js or React .
 
 # Front-end Source code
 
-Front-end Source code's link is equal to https://github.com/Jagadeesh-Kumar-Initial-Is-S/todo-app-frontend .
+Front-end Source code's link is equal to https://github.com/Jagadeesh-Kumar-Initial-Is-S/Short-Blog-s-Frontend .
 
 <hr/>
 
 # Front-end Deployed URL
 
-Front-end Deployed URL's link is equal to https://todo-app-frontend-beige.vercel.app/ .
-
-<hr/>
-
-# Screenshot
-
-![image](https://user-images.githubusercontent.com/115778774/215329820-466b8bba-f96a-412a-95c7-7b4529f644a0.png)
+Front-end Deployed URL's link is equal to https://short-blog-s-frontend.vercel.app .
 
 <hr/>
 
